@@ -32,10 +32,28 @@ au lieu de mettre des \*new\* un peu partout. ^^'
 C'est simple il faut juste mettre le texte entre les balises \<translation\> :
 
 ```
-<translation> ## Ici le texe ## </translation>
+<translation> ## Ici le texte à traduire ## </translation>
 ```
 
+**ATTENTION** ne pas supprimer les chiffres entre accolades le jeu y met ses variables. exemple à la *ligne 1852* :
+
+```
+    <term id="GrantUnlockedNotification" isDone="false" isChanged="false">
+      <devComment />
+      <translatorComment />
+      <translation>Vous avez ouvert {0} Subvention!</translation>
+    </term>
+```
+
+**NE PAS METTRE D'ESPACE ENTRE LES ACCOLLADES** 
+
+Vous pouvez mettre par contre un espaces avant et après les accolades. Mais pas à l'intérieur.
+
+
+
 ## Changelog
+
+**0.0.4** : Correction des espaces avant les signes de ponctuations comme les point d'exclamations. Arrêt des coorection à la *ligne 2061*
 
 **0.0.3** : Changement du fichier previewImages.png, mise à jour du fichier ModData.json.  
 

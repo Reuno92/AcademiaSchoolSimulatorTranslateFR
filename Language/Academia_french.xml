@@ -1131,7 +1131,7 @@
     <term id="ComputerLabZone" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Salle d'nformatique zone </translation>
+      <translation>Zone salle d'nformatique</translation>
     </term>
     <term id="ComputerTask" isDone="false" isChanged="false">
       <devComment />
@@ -1405,7 +1405,7 @@
     </term>
     <term id="DoorOutline" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment>J'ai mis ce qui me semblait le plus logique </translatorComment>
+      <translatorComment>J'ai mis ce qui me semblait le plus logique</translatorComment>
       <translation>Contour de porte</translation>
     </term>
     <term id="DoorPermission" isDone="false" isChanged="false">
@@ -1611,7 +1611,7 @@
     <term id="FacultyZone" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Salle des professeurs I Zone</translation>
+      <translation>Zone salle des professeurs I</translation>
     </term>
     <term id="Fail" isDone="false" isChanged="false">
       <devComment />
@@ -1696,7 +1696,7 @@
     <term id="FinalExamsOngoing" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Les examens finaux sont en cours!</translation>
+      <translation>Les examens finaux sont en cours !</translation>
     </term>
     <term id="FinalGrade" isDone="false" isChanged="false">
       <devComment />
@@ -1711,7 +1711,7 @@
     <term id="FindMore" isDone="false" isChanged="false">
       <devComment />
       <translatorComment>trouver davantage, trouver d'autre </translatorComment>
-      <translation>En trouver d'autre</translation>
+      <translation isChangedBy="BW">En trouver plus</translation>
     </term>
     <term id="FindMoreTeachers" isDone="false" isChanged="false">
       <devComment />
@@ -1786,7 +1786,7 @@
     <term id="FundsRunningLow" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Attention! Vos fonds sont faibles!</translation>
+      <translation>Attention! Vos fonds sont faibles !</translation>
     </term>
     <term id="Furniture" isDone="false" isChanged="false">
       <devComment />
@@ -1806,12 +1806,12 @@
     <term id="GarbageZone" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Local à déchets Zone</translation>
+      <translation>Zone local à déchets</translation>
     </term>
     <term id="Gender" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Le genre</translation>
+      <translation>Genre</translation>
     </term>
     <term id="GotBullied" isDone="false" isChanged="false">
       <devComment />
@@ -2057,7 +2057,7 @@ C'est juste le résultats des notes de vos élèves de la 1ère à la 4ème ann�
     <term id="JanitorRouting.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Définissez un itinéraire à suivre pour que le concierge soit plus efficace dans le nettoyage!</translation>
+      <translation>Définissez un itinéraire à suivre pour que le concierge soit plus efficace dans le nettoyage !</translation>
     </term>
     <term id="Janitors" isDone="false" isChanged="false">
       <devComment />
