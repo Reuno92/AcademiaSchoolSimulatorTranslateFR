@@ -1,0 +1,1 @@
+Put the XML file that was exported from the localization tool in this folder.

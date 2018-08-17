@@ -1,0 +1,1 @@
+Do not delete this. Somehow a folder does not upload if it doesn't have a file other than PreviewImage.png.

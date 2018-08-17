@@ -1,0 +1,18 @@
+<TileSpriteMapping>
+  
+  <!--
+  Here's a sample entry. This replaces the image that has the id "Characters". You can check out the complete list 
+  of entries in the file <Steam Library Folder>/AcademiaSchoolSimulator/Academia_Data/StreamingAssets/BaseGame/Data/TileSpriteMapping.xml.
+  
+  <Entry id="Characters" streamingPath="Images/Characters/CustomCharacterTexture.png" pack="false" />
+  
+  Attributes:
+  id - This is used by the game internally to point to a certain image. Do not change as specified in TileSpriteMapping.xml of the base game.
+  
+  streamingPath - Location of the image relative to the mod folder. You can organize your images however you want. Just make sure that
+  image is in its specified folder.
+  
+  pack - Just copy as specified in the original entry in TileSpriteMapping.xml of the base game.
+  -->
+
+</TileSpriteMapping>
