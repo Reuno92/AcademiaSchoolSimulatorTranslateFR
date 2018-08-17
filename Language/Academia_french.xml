@@ -393,7 +393,7 @@
     </term>
     <term id="MedicatingPatient" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment>Traitement du patient *new*</translatorComment>
+      <translatorComment>Traitement du patient</translatorComment>
       <translation>Patient médical</translation>
     </term>
     <term id="MoppingDirt" isDone="false" isChanged="false">
@@ -448,7 +448,7 @@
     </term>
     <term id="ReturningMedicine" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Medecine, c'est les médicaments en Anglais. # Retourne chercher les Médicaments # *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Medecine, c'est les médicaments en Anglais. # Retourne chercher les Médicaments #</translatorComment>
       <translation>Médecine de retour</translation>
     </term>
     <term id="ReturningMusicInstrument" isDone="false" isChanged="false">
@@ -590,17 +590,17 @@
   <category name="">
     <term id="Field" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Terrain ? *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Terrain ?</translatorComment>
       <translation>Gymnase</translation>
     </term>
     <term id="FieldZone" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Zone de terrain ? *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Zone de terrain ?</translatorComment>
       <translation>Gymnase Zone</translation>
     </term>
     <term id="AddRoute" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Ajouter une route *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Ajouter une route</translatorComment>
       <translation>Ajouter un itinéraire</translation>
     </term>
     <term id="AddRoute.Description" isDone="false" isChanged="false">
@@ -850,7 +850,7 @@
     </term>
     <term id="BullyingIncident" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Il y a eu un incident intimidant *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Il y a eu un incident intimidant</translatorComment>
       <translation>Il y a un incident d'intimidation!</translation>
     </term>
     <term id="Bush" isDone="false" isChanged="false">
@@ -960,7 +960,7 @@
     </term>
     <term id="Change" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Modify == Modifier et Change == Changer ? *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Modify == Modifier et Change == Changer ?</translatorComment>
       <translation>Modifier</translation>
     </term>
     <term id="CheckerboardFloor" isDone="false" isChanged="false">
@@ -1020,7 +1020,7 @@
     </term>
     <term id="ClinicZone" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Inversion de la position de Zone *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Inversion de la position de Zone</translatorComment>
       <translation>Zone Infirmerie</translation>
     </term>
     <term id="Clock" isDone="false" isChanged="false">
@@ -1040,7 +1040,7 @@
     </term>
     <term id="ClubZone" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Inversion de la position de Zone *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Inversion de la position de Zone</translatorComment>
       <translation>Zone Club</translation>
     </term>
     <term id="CoEd" isDone="false" isChanged="false">
@@ -1055,7 +1055,7 @@
     </term>
     <term id="CoffeeMachine" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Ou machine à café *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Ou machine à café</translatorComment>
       <translation>Cafetière</translation>
     </term>
     <term id="CollegeDegree" isDone="false" isChanged="false">
@@ -1085,7 +1085,7 @@
     </term>
     <term id="CommonAreaZone" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Inversion de la position de Zone *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Inversion de la position de Zone</translatorComment>
       <translation>Zone salle commune</translation>
     </term>
     <term id="Competitions" isDone="false" isChanged="false">
@@ -1140,7 +1140,7 @@
     </term>
     <term id="ConcreteTile" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">J'ai traduit Tile par dalle vu le contexte. *new*</translatorComment>
+      <translatorComment isModifyBy="BW">J'ai traduit Tile par dalle vu le contexte.</translatorComment>
       <translation>Dalle de béton</translation>
     </term>
     <term id="ConcreteWall" isDone="false" isChanged="false">
@@ -1190,7 +1190,7 @@
     </term>
     <term id="Conscientiousness" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Sensibilisation ? *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Sensibilisation ?</translatorComment>
       <translation>Conscience</translation>
     </term>
     <term id="Continue" isDone="false" isChanged="false">
@@ -1250,7 +1250,7 @@
     </term>
     <term id="DateModified" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Date Modifier ? *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Date Modifier ?</translatorComment>
       <translation>Mise à jour</translation>
     </term>
     <term id="Day" isDone="false" isChanged="false">
@@ -1310,7 +1310,7 @@
     </term>
     <term id="DeliveryZone" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Changement de place du mot zone ! *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Changement de place du mot zone !</translatorComment>
       <translation>Zone de Livraison</translation>
     </term>
     <term id="Demolish" isDone="false" isChanged="false">
@@ -1325,7 +1325,7 @@
     </term>
     <term id="DepartmentPopulation" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">C'est moche à lire à revoir. *new*</translatorComment>
+      <translatorComment isModifyBy="BW">C'est moche à lire à revoir.</translatorComment>
       <translation>Population professoral</translation>
     </term>
     <term id="Description" isDone="false" isChanged="false">
@@ -1355,7 +1355,7 @@
     </term>
     <term id="DiagonalFloor" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Ajout d'un e à diagonal. *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Ajout d'un e à diagonal.</translatorComment>
       <translation>Sol Diagonale</translation>
     </term>
     <term id="Dirt" isDone="false" isChanged="false">
@@ -1375,7 +1375,7 @@
     </term>
     <term id="DiscussionButton" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">Discussion Button ~ Bouton discussion ? *new*</translatorComment>
+      <translatorComment isModifyBy="BW">Discussion Button ~ Bouton discussion ?</translatorComment>
       <translation>Accéder au Forum</translation>
     </term>
     <term id="Dismantle" isDone="false" isChanged="false">
@@ -1415,7 +1415,7 @@
     </term>
     <term id="Doors" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment isModifyBy="BW">A voir en jeu, peut être tout simplement "Portes" *new*</translatorComment>
+      <translatorComment isModifyBy="BW">A voir en jeu, peut être tout simplement "Portes"</translatorComment>
       <translation>Des portes</translation>
     </term>
     <term id="DoubleDoor" isDone="false" isChanged="false">
