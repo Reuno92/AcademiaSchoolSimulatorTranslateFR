@@ -1601,7 +1601,7 @@
     <term id="FacultyLoungeZone" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Salle des professeurs Zone</translation>
+      <translation>Zone salle des professeurs</translation>
     </term>
     <term id="FacultyRoom" isDone="false" isChanged="false">
       <devComment />
@@ -2072,7 +2072,7 @@ C'est juste le résultats des notes de vos élèves de la 1ère à la 4ème ann�
     <term id="JanitorsRoomZone" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Conciergerie Zone</translation>
+      <translation>Zone conciergerie</translation>
     </term>
     <term id="Junior" isDone="false" isChanged="false">
       <devComment />
@@ -2137,7 +2137,7 @@ C'est juste le résultats des notes de vos élèves de la 1ère à la 4ème ann�
     <term id="LibraryZone" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Bibliothèque Zone</translation>
+      <translation>Zone bibliothèque</translation>
     </term>
     <term id="LifeSucks" isDone="false" isChanged="false">
       <devComment />
@@ -2162,7 +2162,7 @@ C'est juste le résultats des notes de vos élèves de la 1ère à la 4ème ann�
     <term id="LoadQuestion" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Charger?</translation>
+      <translation>Charger ?</translation>
     </term>
     <term id="Loading" isDone="false" isChanged="false">
       <devComment />
@@ -2172,9 +2172,9 @@ C'est juste le résultats des notes de vos élèves de la 1ère à la 4ème ann�
     <term id="LoadingPleaseWait" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>CHARGEMENT...
+        <translation>CHARGEMENT...
 
-&lt;size = 10&gt;veuillez patienter &lt;/ size&gt;</translation>
+            &lt;size = 10&gt;Veuillez patienter &lt;/ size&gt;</translation>
     </term>
     <term id="Local" isDone="false" isChanged="false">
       <devComment />
@@ -2239,7 +2239,7 @@ C'est juste le résultats des notes de vos élèves de la 1ère à la 4ème ann�
     <term id="MapUploaded" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Carte Téléchargée</translation>
+      <translation>Carte téléchargée</translation>
     </term>
     <term id="MapUploadedDescription" isDone="false" isChanged="false">
       <devComment />
@@ -2319,12 +2319,12 @@ C'est juste le résultats des notes de vos élèves de la 1ère à la 4ème ann�
     <term id="ModInstallationFailed" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>"{0}" l'installation a échoué!</translation>
+      <translation>"{0}" l'installation a échoué !</translation>
     </term>
     <term id="ModInstalledSuccessfully" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>"{0}" a été installé avec succès!</translation>
+      <translation>"{0}" a été installé avec succès !</translation>
     </term>
     <term id="ModName" isDone="false" isChanged="false">
       <devComment />
@@ -2369,7 +2369,7 @@ C'est juste le résultats des notes de vos élèves de la 1ère à la 4ème ann�
     <term id="MonitorRouting.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Définissez un itinéraire à suivre pour un éducateur afin qu'il soit plus efficace pour capturer les élèves délinquants!</translation>
+      <translation>Définissez un itinéraire à suivre pour un éducateur afin qu'il soit plus efficace pour capturer les élèves délinquants !</translation>
     </term>
     <term id="Monitors" isDone="false" isChanged="false">
       <devComment />
@@ -2421,7 +2421,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="MusicRoomZone" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Classe Musique Zone</translation>
+      <translation>Zone classe Musique</translation>
     </term>
     <term id="MusicVolume" isDone="false" isChanged="false">
       <devComment />
@@ -2516,7 +2516,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="ObjectOutline" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Objet Zone</translation>
+      <translation>Zone objet</translation>
     </term>
     <term id="Objects" isDone="false" isChanged="false">
       <devComment />
@@ -2536,7 +2536,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="OfficeZone" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Bureau Zone</translation>
+      <translation>Zone bureau</translation>
     </term>
     <term id="OpenSaveFolder" isDone="false" isChanged="false">
       <devComment />
@@ -2661,7 +2661,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="PlanterWood" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Jardinière en Bois</translation>
+      <translation>Jardinière en bois</translation>
     </term>
     <term id="PlanterWoodFlower" isDone="false" isChanged="false">
       <devComment />
@@ -3001,7 +3001,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="ScienceLabZone" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Laboratoire scientifique Zone</translation>
+      <translation>Zone laboratoire scientifique</translation>
     </term>
     <term id="ScienceTable" isDone="false" isChanged="false">
       <devComment />
@@ -3131,7 +3131,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="SortBy" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Trier par:</translation>
+      <translation>Trier par :</translation>
     </term>
     <term id="SpecialRooms" isDone="false" isChanged="false">
       <devComment />
@@ -3831,27 +3831,27 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="YouCanStartSchoolYear" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Vous pouvez maintenant commencer l'année scolaire!</translation>
+      <translation>Vous pouvez maintenant commencer l'année scolaire !</translation>
     </term>
     <term id="YouHaveClassSkipper" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Vous avez un délégué de classe!</translation>
+      <translation>Vous avez un délégué de classe !</translation>
     </term>
     <term id="YouHaveRowdyStudent" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Vous avez un étudiant chahuteur!</translation>
+      <translation>Vous avez un étudiant chahuteur !</translation>
     </term>
     <term id="YouHaveRudeStudent" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Vous avez un élève grossier!</translation>
+      <translation>Vous avez un élève grossier !</translation>
     </term>
     <term id="ZoneEdit" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>éditer une zone</translation>
+      <translation>éditer la zone</translation>
     </term>
     <term id="ZoneRequirements" isDone="false" isChanged="false">
       <devComment />
@@ -3871,7 +3871,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="WorkerRouting.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Définir un itinéraire pour les travailleurs afin qu'ils puissent inspecter les objets cassés</translation>
+      <translation>Définir un itinéraire pour les travailleurs afin qu'ils puissent inspecter les objets cassés.</translation>
     </term>
     <term id="ScienceCabinet" isDone="false" isChanged="false">
       <devComment />
@@ -4192,7 +4192,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="NutritionalNeeds.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Les étudiants ne peuvent pas étudier à jeun! Construisez une cuisine et une cafétéria. Cliquez sur Zones et l'onglet "Nutrition" pour trouver la "cafétéria" et la "cuisine".</translation>
+      <translation>Les étudiants ne peuvent pas étudier à jeun ! Construisez une cuisine et une cafétéria. Cliquez sur Zones et l'onglet "Nutrition" pour trouver la "cafétéria" et la "cuisine".</translation>
     </term>
     <term id="PrincipalsOffice" isDone="false" isChanged="false">
       <devComment />
@@ -4283,7 +4283,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="SchoolFun.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Trop de travail et aucune pièce de club rendront les étudiants ... morne et ennuyé! Construisez une "salle Commune" pour que l'étudiant puisse s'amuser et rencontrer des amis. Cliquez sur "Zones" et l'onglet Pièces spéciales pour trouver la salle commune.</translation>
+      <translation>Trop de travail et aucune pièce de club rendront les étudiants... morne et ennuyé! Construisez une "salle Commune" pour que l'étudiant puisse s'amuser et rencontrer des amis. Cliquez sur "Zones" et l'onglet Pièces spéciales pour trouver la salle commune.</translation>
     </term>
     <term id="SchoolHealth" isDone="false" isChanged="false">
       <devComment />
@@ -4305,7 +4305,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="SchoolMonitor.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Ne laissez pas les élèves qui se conduisent mal en sortir facilement! Embaucher des éducateurs pour patrouiller l'école pour attraper les délinquants en flagrant délit!</translation>
+      <translation>Ne laissez pas les élèves qui se conduisent mal en sortir facilement! Embaucher des éducateurs pour patrouiller l'école pour attraper les délinquants en flagrant délit !</translation>
     </term>
     <term id="SelfStudy" isDone="false" isChanged="false">
       <devComment />
@@ -4666,7 +4666,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="ObjectsManager" isDone="false" isChanged="false">
       <devComment />
       <translatorComment>"Ce sont des textes aléatoires générés lors du chargement du jeu pour fournir" saveur ""</translatorComment>
-      <translation>réserver un espace aux futurs objets</translation>
+      <translation>Réserver un espace aux futurs objets</translation>
     </term>
     <term id="OfficeManager" isDone="false" isChanged="false">
       <devComment />
@@ -6220,7 +6220,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="BookShelf.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Un entrepôt des connaissances du monde</translation>
+      <translation>Un entrepôt des connaissances du monde.</translation>
     </term>
     <term id="BrickFloor.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6230,7 +6230,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="BulletinBoard.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Un endroit pour poster des trucs</translation>
+      <translation>Un endroit pour poster des trucs.</translation>
     </term>
     <term id="Bush.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6240,17 +6240,17 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="CanteenBench.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Vous en avez besoin pour vous asseoir à la cafétéria</translation>
+      <translation>Vous en avez besoin pour vous asseoir à la cafétéria.</translation>
     </term>
     <term id="CanteenTable.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Construit pour résister à 1000 combats alimentaires</translation>
+      <translation>Construit pour résister à 1000 combats alimentaires.</translation>
     </term>
     <term id="CarpetFloor.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Gardez les chaussures boueuses sur les moquettes!</translation>
+      <translation>Gardez les chaussures boueuses sur les moquettes !</translation>
     </term>
     <term id="Chair.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6260,7 +6260,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Chalkboard.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>L'outil pédagogique classique</translation>
+      <translation>L'outil pédagogique classique.</translation>
     </term>
     <term id="CheckerboardFloor.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6275,7 +6275,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Clock.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>parfait pour dire l'heure.</translation>
+      <translation>Parfait pour dire l'heure.</translation>
     </term>
     <term id="CoconutTree.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6295,7 +6295,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Computer.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Processeur 100Mhz haut de gamme et disque dur 1Go!</translation>
+      <translation>Processeur 100Mhz haut de gamme et disque dur 1Go !</translation>
     </term>
     <term id="DiagonalFloor.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6320,42 +6320,42 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="DugDirt.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Une boue parfaite pour l'aménagement paysager!</translation>
+      <translation>Une boue parfaite pour l'aménagement paysager !</translation>
     </term>
     <term id="Easel.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Vous ne pouvez pas peindre sans en avoir un!</translation>
+      <translation>Vous ne pouvez pas peindre sans en avoir un !</translation>
     </term>
     <term id="Fan.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Refroidit une pièce</translation>
+      <translation>Refroidit une pièce.</translation>
     </term>
     <term id="Fax.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Un miracle de la technologie moderne, recevez des données de partout dans le monde en quelques minutes!</translation>
+      <translation>Un miracle de la technologie moderne, recevez des données de partout dans le monde en quelques minutes !</translation>
     </term>
     <term id="FemaleStatue.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Une statue ajoute de la crédibilité à l'école!</translation>
+      <translation>Une statue ajoute de la crédibilité à l'école !</translation>
     </term>
     <term id="Fence.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Gardez ces enfants sacrés enfermés!</translation>
+      <translation>Gardez ces enfants sacrés enfermés !</translation>
     </term>
     <term id="FenceDoor.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Une porte pour une clôture</translation>
+      <translation>Une porte pour une clôture.</translation>
     </term>
     <term id="FenceStaffDoor.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Une porte pour une clôture, mais seul le personnel peut passer</translation>
+      <translation>Une porte pour une clôture, mais seul le personnel peut passer.</translation>
     </term>
     <term id="FileCabinet.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6365,7 +6365,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="FoodCounter.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Comptoire de distribution le repas</translation>
+      <translation>Comptoir de distribution de repas</translation>
     </term>
     <term id="Fountain.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6380,7 +6380,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="GravelFloor.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Fournit une meilleure adhérence pour les baskets!</translation>
+      <translation>Fournit une meilleure adhérence pour les baskets !</translation>
     </term>
     <term id="Guitar.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6405,12 +6405,12 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="MainEntrance.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>C'est une grande porte!</translation>
+      <translation>C'est une grande porte !</translation>
     </term>
     <term id="MaleStatue.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Une statue ajoute de la crédibilité à l'école!</translation>
+      <translation>Une statue ajoute de la crédibilité à l'école !</translation>
     </term>
     <term id="MarbleFloor.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6454,8 +6454,8 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     </term>
     <term id="Piano.Description" isDone="false" isChanged="false">
       <devComment />
-      <translatorComment />
-      <translation>"Tickle the ivories". Faites de la musique avec ce beau piano à queue!</translation>
+      <translatorComment>"Tickle the ivories" == Chatouiller l'ivoire... Expression à vérifier</translatorComment>
+      <translation>"Tickle the ivories". Faites de la musique avec ce beau piano à queue !</translation>
     </term>
     <term id="PinwheelFloor.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6470,7 +6470,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="PlanterFlower.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Ne l'aimez-vous pas simplement quand une école est pleine de fleurs</translation>
+      <translation>Ne l'aimez-vous pas simplement quand une école est pleine de fleurs.</translation>
     </term>
     <term id="PlanterWood.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6485,7 +6485,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="PlateCounter.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>La vaisselle sale va d'abord ici!</translation>
+      <translation>La vaisselle sale va d'abord ici !</translation>
     </term>
     <term id="PottedPlant.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6495,32 +6495,32 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Refrigerator.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Empêche la nourriture de se détériorer</translation>
+      <translation>Empêche la nourriture de se détériorer.</translation>
     </term>
     <term id="ScienceTable.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>C'est là que la science arrive!</translation>
+      <translation>C'est là que la science arrive !</translation>
     </term>
     <term id="Sink.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Lavez-vous toujours les mains après avoir fait pipi!</translation>
+      <translation>Lavez-vous toujours les mains après avoir fait pipi !</translation>
     </term>
     <term id="Sofa.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Confortable et si vous creusez entre les coussins, vous trouverez peut-être des pièces de monnaie!</translation>
+      <translation>Confortable et si vous creusez entre les coussins, vous trouverez peut-être des pièces de monnaie !</translation>
     </term>
     <term id="StaffDoor.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Pour les zones réservées au personnel!</translation>
+      <translation>Pour les zones réservées au personnel !</translation>
     </term>
     <term id="Statue.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Une statue ajoute de la crédibilité à l'école!</translation>
+      <translation>Une statue ajoute de la crédibilité à l'école !</translation>
     </term>
     <term id="Stove.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6545,7 +6545,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="ToiletCubicle.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Bon pour # 1 et # 2!</translation>
+      <translation>Bon pour # 1 et # 2 !</translation>
     </term>
     <term id="TrashCan.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6570,12 +6570,12 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Urinal.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Pour vider la vessie. Assurez-vous de viser la cible!</translation>
+      <translation>Pour vider la vessie. Assurez-vous de viser la cible !</translation>
     </term>
     <term id="VendingMachine.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Ces collations ne sont pas saines, mais elles ont un bon goût!</translation>
+      <translation>Ces collations ne sont pas saines, mais elles ont un bon goût !</translation>
     </term>
     <term id="VersaillesFloor.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6620,12 +6620,12 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="ScienceCabinet.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Gardez votre équipement scientifique en sécurité!</translation>
+      <translation>Gardez votre équipement scientifique en sécurité !</translation>
     </term>
     <term id="PeriodicTable.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Les éléments sont les éléments constitutifs de l'univers!</translation>
+      <translation>Les éléments sont les éléments constitutifs de l'univers !</translation>
     </term>
     <term id="Cabinet.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6637,27 +6637,27 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="GradeA" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Tu le fais bien! Continuez!</translation>
+      <translation>Tu le fais bien ! Continuez!</translation>
     </term>
     <term id="GradeB" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Bon travail! Un peu plus d'effort irait loin!</translation>
+      <translation>Bon travail ! Un peu plus d'effort irait loin !</translation>
     </term>
     <term id="GradeC" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>"C'est ça! Faites de petits pas et vous y arriverez!"</translation>
+      <translation>"C'est ça ! Faites de petits pas et vous y arriverez !"</translation>
     </term>
     <term id="GradeD" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Essayez plus fort! Faites-le pour les étudiants!</translation>
+      <translation>Essayez plus fort ! Faites-le pour les étudiants !</translation>
     </term>
     <term id="GradeF" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>"Tu devrais diriger une école?"</translation>
+      <translation>"Tu devrais diriger une école ?"</translation>
     </term>
   </category>
   <category name="SchoolSealIcons">
@@ -6719,7 +6719,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="FleurDeLys" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Fleur De Lys</translation>
+      <translation>Fleur de Lys</translation>
     </term>
     <term id="Fries" isDone="false" isChanged="false">
       <devComment />
@@ -6921,7 +6921,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Counselor.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Va au fond des problèmes des élèves délinquants sans leur crier dessus ( Zone de bureau). Si vous avez beaucoup de délinquants, engagez plus de conseillers!</translation>
+      <translation>Va au fond des problèmes des élèves délinquants sans leur crier dessus ( Zone de bureau). Si vous avez beaucoup de délinquants, engagez plus de conseillers !</translation>
     </term>
     <term id="Janitor.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6931,12 +6931,12 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Monitor.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Attrape les enfants et les brutes et les amènes au bureau du directeur</translation>
+      <translation>Attrape les enfants et les brutes et les amènes au bureau du directeur.</translation>
     </term>
     <term id="Nurse.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Traite vos élèves malades</translation>
+      <translation>Traite vos élèves malades.</translation>
     </term>
     <term id="Principal.Description" isDone="false" isChanged="false">
       <devComment />
@@ -6946,19 +6946,19 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Teacher.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Bon vieux personnel qui fait l'enseignement</translation>
+      <translation>Bon vieux personnel qui fait l'enseignement.</translation>
     </term>
     <term id="Worker.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Construit des trucs et effectue des livraisons</translation>
+      <translation>Construit des trucs et effectue des livraisons.</translation>
     </term>
   </category>
   <category name="Tutorial">
     <term id="BasicGameplay.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Il est temps de construire ton école! Academia: Le processus de construction de base du simulateur d'école consiste à créer des zones, des constructions et du personnel! Chaque processus est décrit ci-dessous. Lorsque vous comprenez et que vous êtes prêt à commencer, cliquez sur le bouton Fermer, puis cliquez sur le bouton Tâches en haut à droite pour commencer à construire!</translation>
+      <translation>Il est temps de construire ton école! Academia: Le processus de construction de base du simulateur d'école consiste à créer des zones, des constructions et du personnel! Chaque processus est décrit ci-dessous. Lorsque vous comprenez et que vous êtes prêt à commencer, cliquez sur le bouton Fermer, puis cliquez sur le bouton Tâches en haut à droite pour commencer à construire !</translation>
     </term>
     <term id="BasicGameplay.Header" isDone="false" isChanged="false">
       <devComment />
@@ -6968,12 +6968,12 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Build.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Les zones ont besoin d’objets spécifiques intégrés pour fonctionner. Placez les articles requis dans la zone et assurez-vous de construire des murs et des portes lorsque cela est nécessaire. N'oubliez pas que vous pouvez faire pivoter des objets avec (R) ou cliquer sur le bouton central de la souris. Une fois toutes les conditions remplies, n'hésitez pas à décorer votre zone en ajoutant plus d'objets!</translation>
+      <translation>Les zones ont besoin d’objets spécifiques intégrés pour fonctionner. Placez les articles requis dans la zone et assurez-vous de construire des murs et des portes lorsque cela est nécessaire. N'oubliez pas que vous pouvez faire pivoter des objets avec (R) ou cliquer sur le bouton central de la souris. Une fois toutes les conditions remplies, n'hésitez pas à décorer votre zone en ajoutant plus d'objets !</translation>
     </term>
     <term id="Build.Header" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>2. Construire!</translation>
+      <translation>2. Construire !</translation>
     </term>
     <term id="BuildWallTest" isDone="false" isChanged="false">
       <devComment />
@@ -6988,7 +6988,7 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Staff.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Certaines zones nécessitent du personnel pour fonctionner, comme la cuisine et le bureau. Engagez un membre du personnel et, si possible, placez-le dans la zone pour vous assurer que la zone fonctionne!</translation>
+      <translation>Certaines zones nécessitent du personnel pour fonctionner, comme la cuisine et le bureau. Engagez un membre du personnel et, si possible, placez-le dans la zone pour vous assurer que la zone fonctionne !</translation>
     </term>
     <term id="Staff.Header" isDone="false" isChanged="false">
       <devComment />
@@ -6998,12 +6998,12 @@ Si vous ne trouvez pas votre langue ici, veuillez envisager de faire un mod de l
     <term id="Zone.Description" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>Les zones sont la manière dont vous organisez votre école. Le placement stratégique des zones est important pour obtenir une efficacité maximale. Par exemple, vous voudrez probablement faire vos toilettes près des salles de classe des étudiants! Sélectionnez une zone dans le menu des zones puis cliquez et faites glisser sur la carte pour placer une zone!</translation>
+      <translation>Les zones sont la manière dont vous organisez votre école. Le placement stratégique des zones est important pour obtenir une efficacité maximale. Par exemple, vous voudrez probablement faire vos toilettes près des salles de classe des étudiants! Sélectionnez une zone dans le menu des zones puis cliquez et faites glisser sur la carte pour placer une zone !</translation>
     </term>
     <term id="Zone.Header" isDone="false" isChanged="false">
       <devComment />
       <translatorComment />
-      <translation>1. Zone!</translation>
+      <translation>1. Zone !</translation>
     </term>
   </category>
 </language>
