@@ -1,13 +1,12 @@
-# Traduction pour le le jeux Academia School Simulator en Français.
+# Traduction pour le jeux Academia School Simulator en Français.
 A l'origine fait par haru_dr
 
-Modification fait par moi-même.
+Modification fait par moi-même SteamId: Brice Willus.
 
 Le fichier de modification se trouve dans le répertoire **Language**.
-
 **Academia_French.xml** est le fichier de traduction
 
-## Annotation
+## Annotations
 Pour modifier un commentaire de traduction:
 
 Remplacer
@@ -26,4 +25,20 @@ Il est conseiller de mettre des attributs quand on fait un changement par exempl
 <translatorComment isModifiyBy="BW"></translatorComment>
 ```
 
-au lieu de mettre des \*new\* un peu partout. ^^' 
+au lieu de mettre des \*new\* un peu partout. ^^'
+
+## Comment faire la traduction
+
+C'est simple il faut juste mettre le texte entre les balises \<translation\> :
+
+```
+<translation> ## Ici le texe ## </translation>
+```
+
+## Changelog
+
+**0.0.3** : Changement du fichier previewImages.png, mise à jour du fichier ModData.json.  
+
+**0.0.2** : Suppression des annotations dans les commentaires \*new\* et création du fichier README.md
+
+**0.0.1** : Mise à jour des accents. 

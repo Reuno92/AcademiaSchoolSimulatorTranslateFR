@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <PublishedFileId>1477226004</PublishedFileId>
-  <Name>Langue_francais</Name>
-  <Description>Voici une traduction du jeu en français. Étant donné que je me suis servi de traducteurs, il y a certainement des erreurs de traduction. Je vais donc tenter de corriger dès que je peux. Mais certain mot sont utilisé plusieurs fois dans le jeu, donc il se peut que la formulation ne soit pas top. 
+  <Name>Langue Francophones</Name>
+  <Description>Voici une traduction du jeu en français. Étant donné que je me suis servi de traducteurs, il y a certainement des erreurs de traduction. Je vais donc tenter de corriger dès que je peux. Mais certains mots sont utilisés plusieurs fois dans le jeu, donc il se peut que la formulation ne soit pas top.
 Je compte donc sur vous pour m'aider en commentaire ;) 
 </Description>
   <IconFileName>PreviewImage.png</IconFileName>

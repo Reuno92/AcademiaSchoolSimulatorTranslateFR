@@ -401,4 +401,6 @@ ASALocalRun/
 # MSBuild Binary and Structured Log
 *.binlog
 
+# Photoshop Files
+PreviewImage.psd
 
