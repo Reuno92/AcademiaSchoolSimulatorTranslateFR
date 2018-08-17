@@ -35,7 +35,7 @@ C'est simple il faut juste mettre le texte entre les balises \<translation\> :
 <translation> ## Ici le texte à traduire ## </translation>
 ```
 
-**ATTENTION** ne pas supprimer les chiffres entre accolades le jeu y met ses variables. exemple à la *ligne 1852* :
+**ATTENTION** Ne pas supprimer les chiffres entre accolades le jeu y met ses variables. exemple à la *ligne 1852* :
 
 ```
     <term id="GrantUnlockedNotification" isDone="false" isChanged="false">
@@ -49,9 +49,9 @@ C'est simple il faut juste mettre le texte entre les balises \<translation\> :
 
 Vous pouvez mettre par contre un espaces avant et après les accolades. Mais pas à l'intérieur.
 
-
-
 ## Changelog
+
+**0.0.5** : Fin de la première vagues de correction avec des points dans les descriptions et les espaces avant les points d'exclamation et d'intérrogation.
 
 **0.0.4** : Correction des espaces avant les signes de ponctuations comme les point d'exclamations. Arrêt des coorection à la *ligne 2061*
 
